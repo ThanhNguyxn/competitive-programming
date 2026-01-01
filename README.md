@@ -45,13 +45,15 @@ I use the best tool for the job! Here are the languages currently featured in th
 
 ## 📂 Repository Structure
 
-The repository is organized by problem, with each file named clearly to indicate the problem number and title.
+The repository is organized with a clean structure, keeping all solutions in a dedicated folder.
 
 ```
 leetcode-solutions/
-├── 1-two-sum.cpp
-├── 9-palindrome-number.cpp
-├── ...
+├── solutions/
+│   ├── 1-two-sum.cpp
+│   ├── 9-palindrome-number.cpp
+│   └── ...
+├── LICENSE
 └── README.md
 ```
 
