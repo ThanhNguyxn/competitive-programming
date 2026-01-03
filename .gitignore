@@ -42,3 +42,16 @@ yarn-error.log
 *.swp
 *.swo
 *.iml
+
+# Local tooling / contest artifacts
+out.txt
+my_out*.txt
+score.ps1
+scorer.cpp
+tests/
+tests.zip
+
+# Local scratch
+sandbox/
+# TEMP (contest): do not commit in-progress solution
+solutions/2177A-oxc-ports-arrangement-problem.cpp
